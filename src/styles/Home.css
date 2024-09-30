@@ -1,0 +1,26 @@
+.main_container {
+  width: 1920px;
+  height: 660px;
+  margin-top: 3%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.name_container {
+  width:fit-content;
+  height: 45px;
+  display: flex;
+}
+
+.namebox {
+  width: 180px;
+  height: 30px;
+}
+
+.namebtn {
+  width: 35px;
+  height: 35px;
+  margin-left: 12px;
+  
+}

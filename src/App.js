@@ -1,10 +1,13 @@
+import Footer from "./components/Footer/Footer.jsx";
+import Navbar from "./components/Navbar/Navbar.jsx";
+import Home from "./pages/Home.jsx";
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-       
-      </header>
+      <Navbar/>
+      <Home/>
+      <Footer/>
     </div>
   );
 }
